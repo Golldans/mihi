@@ -4,7 +4,8 @@ module.exports = {
     "./src/**/*.tsx",    
   ],
   theme: {
-    extend: {},
+    extend: {
+    },
   },
   plugins: [],
 }
